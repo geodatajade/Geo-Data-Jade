@@ -1,8 +1,16 @@
-echo "# Geo-Data-Jade" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/geodatajade/Geo-Data-Jade.git
-git contribute on gumroad https://geodatajade.gumroad.com/l/nasarawageojson?_gl=1*pwx04f*_ga*MjU3MTM4NzQ4LjE3NDY4MDI2OTE.*_ga_6LJN6D94N6*czE3NDY4MDI2OTEkbzEkZzEkdDE3NDY4MDc4NzMkajAkbDAkaDA.
-git push -u origin main
+# Nasarawa State GeoJSON Map Data
+
+This repository contains high-resolution **GeoJSON boundary data** for **Nasarawa State, Nigeria**. Perfect for GIS applications, urban planning, and environmental analysis.
+
+## 🗺️ **Features**
+- Full LGA boundary mapping
+- High-resolution coordinates
+- Compatible with Mapbox, Leaflet, Google Earth, QGIS, and ArcGIS
+
+## 🌐 **Live Map Preview**
+👉 [View the Interactive Map on Datawrapper](https://www.datawrapper.de/_/gBPOU/?v=3)
+
+## 💵 **Purchase the Dataset**
+Support my work and get instant access to the dataset for **$2** on Gumroad:  
+👉 [Buy on Gumroad](https://geodatajade.gumroad.com/l/nasarawageojson?_gl=1*1se513p*_ga*MjU3MTM4NzQ4LjE3NDY4MDI2OTE.*_ga_6LJN6D94N6*czE3NDY4MDI2OTEkbzEkZzEkdDE3NDY4MDcyNDMkajAkbDAkaDA.)
+
